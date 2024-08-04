@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "posts"
+  },
+  {
+    "name": "PostsContent",
+    "fieldId": "postscontent",
+    "modelId": "posts",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
